@@ -4,14 +4,16 @@
   "description": "NodeJS R&D project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marc Ruemekorf",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.18.0",
     "eslint": "^9.18.0",
-    "globals": "^15.14.0"
+    "globals": "^15.14.0",
+    "nodemon": "^3.1.9"
   }
 }

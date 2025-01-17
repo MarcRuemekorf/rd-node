@@ -1,3 +1,3 @@
 # NodeJS R&D project
 
-Run `node app.js` to start the server
+Run `npm install` to setup project dependencies then `npm start` to start the server
